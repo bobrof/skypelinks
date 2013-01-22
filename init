@@ -1,0 +1,7 @@
+#ifndef _SkypeLinks_icpp_init_stub
+#define _SkypeLinks_icpp_init_stub
+#include "CtrlLib/init"
+#include "MtAlt/init"
+#include "plugin/sqlite3/init"
+#include "Web/SSL/init"
+#endif

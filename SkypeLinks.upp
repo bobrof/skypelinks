@@ -1,0 +1,17 @@
+uses
+	CtrlLib,
+	MtAlt,
+	plugin/sqlite3,
+	Web/SSL;
+
+file
+	SkypeLinks.cpp,
+	SkypeLinks.h,
+	SkypeLinks.lay,
+	SkypeLinks.iml,
+	OmegaIndexer.cpp,
+	OmegaIndexer.h;
+
+mainconfig
+	"" = "GUI MT";
+

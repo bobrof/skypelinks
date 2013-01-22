@@ -1,0 +1,5 @@
+LAYOUT(SkypeLinksLayout, 708, 384)
+	ITEM(RichTextView, memo, Background(Null).HSizePosZ(4, 4).VSizePosZ(28, 5))
+	ITEM(EditString, request, HSizePosZ(4, 4).TopPosZ(4, 19))
+END_LAYOUT
+
